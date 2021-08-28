@@ -1,0 +1,26 @@
+{
+  "name": "ibot",
+  "version": "1.0.0",
+  "description": "discord ibot rewrite in js",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiLearner/ibot-js.git"
+  },
+  "author": "iLearner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiLearner/ibot-js/issues"
+  },
+  "homepage": "https://github.com/iiLearner/ibot-js#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
