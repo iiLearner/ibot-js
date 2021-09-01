@@ -18,9 +18,16 @@
   },
   "homepage": "https://github.com/iiLearner/ibot-js#readme",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "0.1.0-canary.0",
+    "bufferutil": "^4.0.3",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "eris-sharder": "^1.10.0",
+    "utf-8-validate": "^5.0.5"
   },
   "devDependencies": {
+    "@types/eris-sharder": "^1.10.1",
     "tslint": "^5.12.1",
     "typescript": "^3.3.3"
   }
